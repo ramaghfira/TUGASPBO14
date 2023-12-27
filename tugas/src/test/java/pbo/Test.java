@@ -1,4 +1,4 @@
-package tugas.src.test.java.pbo;
+package pbo;
 
 public @interface Test {
 
